@@ -219,4 +219,4 @@ python3 analyze.py results/
 Telecommunications Engineering — Network and Telecommunications Media  
 Institut Teknologi Sepuluh Nopember (ITS) Surabaya  
 📧 ryanto.muhammad04@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/your-profile) <!-- ganti sama link aslimu -->
+🔗 [LinkedIn] www.linkedin.com/in/muhammad-fithriyanto-92a7a924a
