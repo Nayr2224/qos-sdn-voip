@@ -99,6 +99,12 @@ ovs-vsctl set port s1-eth1 qos=@newqos -- \
 ---
 
 ## 📊 Results
+### Comparison Charts
+
+![Jitter](grafik_jitter.png)
+![Throughput](grafik_throughput.png)
+![Packet Loss](grafik_loss.png)
+![Delay](grafik_delay.png)
 
 Testing was conducted with N=5 repetitions per scenario, 60 seconds each. VoIP traffic generated via D-ITG (UDP), background traffic via iperf3 (TCP greedy).
 
